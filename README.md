@@ -50,3 +50,7 @@ So here it is, our wall. Open sourced for the whole world to see!
 
 # Act IV - Build:
 * Run sh build.sh to generate the js/config.js file 
+
+
+# License 
+Source Copyright © 2012-2013 Marco Munizaga and contributors. Distributed under the Eclipse Public License, the same as Clojure uses. 
